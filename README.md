@@ -8,9 +8,21 @@
 ***
 > That was a pioneering attempt to develop the first NFC EMV Android wallet in June 2015, 2 months before SAMSUNG releases SAMSUNG Pay in August 2015.
 
-<img src="https://user-images.githubusercontent.com/102011478/175897213-71d90ae3-09af-48a9-a297-9b2be6db0d62.svg" width="100" height="100" />
-<img src="https://user-images.githubusercontent.com/102011478/176021751-5e083718-146e-4f15-9878-7fc77d28a7be.svg" width="100" height="100" />
-<img src="https://user-images.githubusercontent.com/102011478/176022521-23515a0f-e90c-49ad-a22b-3fc21f74cab5.svg" width="100" height="100" />
+<table>
+  <tr>
+     <td>C++</td>
+     <td>JAVA</td>
+     <td>MySQL</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/102011478/175897213-71d90ae3-09af-48a9-a297-9b2be6db0d62.svg" width="100" height="100" /></td>
+    <td><img src="https://user-images.githubusercontent.com/102011478/176021751-5e083718-146e-4f15-9878-7fc77d28a7be.svg" width="100" height="100" /></td>
+    <td><img src="https://user-images.githubusercontent.com/102011478/176022521-23515a0f-e90c-49ad-a22b-3fc21f74cab5.svg" width="100" height="100" /></td>
+  </tr>
+</table>
+
+
+
 
 
 

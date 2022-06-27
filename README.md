@@ -8,6 +8,8 @@
 ***
 > That was a pioneering attempt to develop the first NFC EMV Android wallet in June 2015, 2 months before SAMSUNG releases SAMSUNG Pay in August 2015.
 
+![cpp_logo](https://user-images.githubusercontent.com/102011478/175897213-71d90ae3-09af-48a9-a297-9b2be6db0d62.svg)
+
 <!--
 **k3EEE/K3EEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

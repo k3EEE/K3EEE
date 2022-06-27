@@ -10,9 +10,9 @@
 
 <table>
   <tr>
-     <td>`C++`</td>
-     <td>`JAVA`</td>
-     <td>`MySQL`</td>
+     <td> `C++` </td>
+     <td> `JAVA` </td>
+     <td> `MySQL` </td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/102011478/175897213-71d90ae3-09af-48a9-a297-9b2be6db0d62.svg" width="100" height="100" /></td>

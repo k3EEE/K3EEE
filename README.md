@@ -3,9 +3,9 @@
 > Considering software development as an ever exciting hobby that coincide to be a career !! 
 
 > The buzz and satisfacion brought by encoutering issues and finding resolutions had become some sort of addiction that keep life rolling. 
-
+---
 [NFC EMV payment wallet 2015](https://www.youtube.com/watch?v=5yo0GAMFaXA)
-
+---
 > That was a pioneering attempt to develop the first NFC EMV Android wallet in June 2015, 2 months before SAMSUNG releases SAMSUNG Pay in August 2015.
 
 <!--

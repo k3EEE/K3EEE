@@ -1,12 +1,12 @@
 ## Hello there 
 
-Considering software development as an ever exciting hobby that coincide to be a career !! 
+> Considering software development as an ever exciting hobby that coincide to be a career !! 
 
-The buzz and satisfacion brought by encoutering issues and finding resolutions had become some sort of addiction that keep life rolling. 
+> The buzz and satisfacion brought by encoutering issues and finding resolutions had become some sort of addiction that keep life rolling. 
 
 [NFC EMV payment wallet 2015](https://www.youtube.com/watch?v=5yo0GAMFaXA)
 
-That was a pioneering attempt to develop the first NFC EMV Android wallet in June 2015, 2 months before SAMSUNG releases SAMSUNG Pay in August 2015.
+> That was a pioneering attempt to develop the first NFC EMV Android wallet in June 2015, 2 months before SAMSUNG releases SAMSUNG Pay in August 2015.
 
 <!--
 **k3EEE/K3EEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

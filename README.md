@@ -6,15 +6,12 @@
 ---
 [NFC EMV payment wallet 2015](https://www.youtube.com/watch?v=5yo0GAMFaXA)
 ***
-> That was a pioneering attempt to develop the first NFC EMV Android wallet in June 2015, 2 months before SAMSUNG releases SAMSUNG Pay in August 2015.
+> `That was a pioneering attempt to develop the first NFC EMV Android wallet in June 2015, 2 months before SAMSUNG releases SAMSUNG Pay in August 2015.`
 
-<style type="text/css">
-  .highlight {
-    background-color: yellow;
-  }
+
 </style>
 <table>
-  <tr class="highlight">
+  <tr>
      <td>C++</td>
      <td>JAVA</td>
      <td>MySQL</td>

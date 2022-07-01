@@ -10,7 +10,7 @@
 
 
 
-</style>
+
 <table>
   <tr>
      <td>C++</td>
